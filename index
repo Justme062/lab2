@@ -1,23 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru-RU">
+
   <head>
     <meta charset="UTF-8">
-    <title>задание_2</title>
+    <title>index</title>
   </head>
+
   <body>
-    пункт 1
-    <img src="photo1.jpg">
-     пункт 2
-    <img src="photo2.png">
-     пункт 3
-    <img src="photo3.png">
-    пункт 4
-    <img src="photo4.png">
-     пункт 5
-    <img src="photo5.png">
-     пункт 6
-    <img src="photo6.png">
-     пункт 7
-    <img src="photo7.png">
+    <h2> 1 Задание</h2>
+    <img src="5.png" />
+    <h2> 2 Задание</h2>
+    <img src="6.png" />
+    <h2> 3 Задание</h2>
+    <img src="8.png" />
+    <h2> 4 Задание</h2>
+    <img src="7.png" />
+    <h2> 5 Задание</h2>
+    <img src="9.png" />
+    <h2> 6 Задание</h2>
+    <img src="10.png" />
+    <h2> 7 Задание</h2>
+    <img src="11.png" />
   </body>
+
 </html>
